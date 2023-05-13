@@ -38,6 +38,7 @@ Compile the code using a C++ compiler and run the resulting executable.
 4. Division
 
 Please select a calculator method: 1
+
 Enter first number: 2
 Enter second number: 3
 
